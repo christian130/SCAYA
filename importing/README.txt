@@ -1,0 +1,1 @@
+this is a little algorith created in c# .net that reads the devices that have color in their screen

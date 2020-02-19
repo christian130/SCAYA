@@ -1,0 +1,786 @@
+body,table
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#373636;
+}
+
+.boton
+{
+	background-color:#0772b8;
+	color:#ffffff;
+	font-weight:bold;
+	border:solid;
+	border-width:thin;
+	border-color:#1852a4;
+}
+
+.mensaje
+{
+	color:#FF0000;
+	font-size:10px;
+	font-weight:bold;
+	vertical-align:middle;
+}
+
+.mensaje_satisfactorio1
+{
+	background-color:#FFFFE0;
+	border:1px solid #FCFF00;
+	padding:5px;
+	height:25px;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000; 
+	vertical-align:middle;
+}
+
+.mensaje_satisfactorio
+{
+	background-color:#DCEEFF;
+	border:1px solid #0180D9;
+	padding:5px;
+	height:25px;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000; 
+}
+
+.mensaje_satisfactorio2
+{
+	background-color:#BFFAC1;
+	border:1px solid #1AAD1D;
+	padding:5px;
+	height:25px;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000; 
+}
+
+.mensaje_error
+{
+	background-color:#FFCFD6;
+	border:1px solid #B30820;
+	padding:5px;
+	height:25px;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000; 
+}
+
+.headtable
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#FFFFFF;
+	background-color:#C91D26;
+	height:20px;
+	vertical-align:middle;
+}
+
+.headtableimprimir
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#FFFFFF;
+	background-color:#474ea1;
+	height:20px;
+	vertical-align:middle;
+	border: 1px solid #000000;
+}
+
+.bodytable
+{
+	background-color:#fceaea;
+}
+
+h1 
+{ 
+	font-size:16px; 
+}
+
+.bordetable 
+{
+	border: 1px solid #000000; 
+}
+
+.borde_ancho
+{
+	border:2px solid #000099;
+}
+
+.objeto_sin_bordes
+{
+	border:0px;
+	margin:0px;
+	vertical-align:middle;
+}
+
+.link
+{
+	border:0px;
+	margin:0px;
+	vertical-align:middle;
+	cursor:pointer;
+}
+
+.tabla_logeo_principal
+{
+	background-color:#ffffff;
+	border:1px solid #999999;
+}
+
+.tabla_logeo
+{
+	background-color:#ffffff;
+	border:1px solid #999999;
+}
+
+.fondo_logeo
+{
+	background:#D01617;
+	height:23px;
+	border:1px solid #1c4a95;
+}
+
+.fondo_logeo_gris
+{
+	background:#cccccc;
+	height:21px;
+	border:1px solid #1c4a95;
+}
+
+.boton2
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.texto_titulo_logeo
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	color:#ffffff;
+}
+
+.texto_titulo_recomendaciones
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	text-align:left;
+	vertical-align:middle;
+	color:#ffffff;
+}
+
+.texto_pie_logeo
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#fff;
+	text-align:right;
+	text-decoration:underline;
+	vertical-align:middle;
+	cursor:pointer;
+}
+
+.texto
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	color:#373636;
+	vertical-align:middle;
+	text-transform:none;
+	font-weight:normal;
+}
+
+.texto_blanco
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.texto_negrita
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:justify;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.texto_negrita_blanco
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:justify;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.texto_errores
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#ff0000;
+	text-align:justify;
+	vertical-align:middle;
+	height:21px;
+}
+
+.texto_satisfactorio
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000000;
+	text-align:center;
+	vertical-align:middle;
+	border:0px;
+	margin:0px;
+}
+
+.texto_programas
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	color:#000000;
+	vertical-align:middle;
+	cursor:pointer;
+	height:15px;
+}
+
+.texto_submodulos
+{
+	background:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#ffffff;
+	vertical-align:middle;
+	border:0;
+	cursor:pointer;
+}
+
+.texto_modulos
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000;
+	vertical-align:middle;
+	border:0;
+	cursor:pointer;
+}
+
+.texto_fieldset
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:justify;
+	color:#373636;
+	vertical-align:middle;
+}
+
+legend
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:justify;
+	color:#861600;
+	vertical-align:middle;
+}
+
+.titulo_modulos
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	text-align:left;
+	color:#373636;
+	vertical-align:middle;
+	border-bottom:2px solid #7D7D7D;
+}
+
+.tabla_sin_registros
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#999999;
+	vertical-align:middle;
+}
+
+.caja_de_texto
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	border:1px solid #999999;
+	vertical-align:middle;
+}
+
+.imagen_logeo_usuario
+{
+	background:url(../imagenes/seguridad/iconos/usuario.png) #ffffff center no-repeat;
+	height:20px;
+}
+
+.imagen_logeo_contrasena
+{
+	background:url(../imagenes/seguridad/iconos/contrasena.png) #ffffff center no-repeat;
+	height:20px;
+}
+
+.botones
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	vertical-align:middle;
+	text-align:center;
+	cursor:pointer;
+}
+
+.pie_tabla_logeo
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8px;
+	font-weight:bold;
+	color:#fff;
+	text-align:justify;
+	vertical-align:middle;
+	background:url(../../../imagenes/seguridad/borde2.gif) repeat-x;
+	height:30px;
+	border-top:1px solid #999999;
+}
+
+.cuerpo_intranet
+{
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:1007px;
+}
+
+.pie_intranet
+{
+	border:1px solid #cccccc;
+	width:1007px;
+}
+
+.alerta_configuracion_sesion
+{
+	border:1px solid #f8ad06;
+	height:85px;
+	cursor:pointer;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.icono_alerta_configuracion_sesion
+{
+	background:url(../imagenes/seguridad/iconos/cancelar.gif) #ffffff no-repeat;
+	background-position:bottom;
+	height:55px;
+}
+
+.alerta_configuracion_sesion_opaco
+{
+	border:1px solid #999999;
+	height:85px;
+	cursor:pointer;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:underline;
+	color:#000000;
+	vertical-align:middle;
+}
+
+.fieldset
+{
+	background-color:#ffffff;
+	border:1px solid #cccccc;
+}
+
+.fieldset_reporte
+{
+	background-color:#ffffff;
+	border:1px solid #000000;
+}
+
+.borde_menu_modulos
+{
+	border-bottom:1px solid #999999; 
+	background:url(../imagenes/seguridad/fondomenumodulos.gif);
+	width:1005px;
+	height:50px;
+}
+
+.boton_menu
+{
+	border-left:1px solid #999999;
+	text-align:center;
+}
+
+.boton_menu_cursor
+{
+	background:url(../imagenes/seguridad/fondomenubotoncursormodulos.gif) repeat;
+	border-left:1px solid #999999;
+	text-align:center;
+}
+
+.borde_menu_submodulos
+{
+	border-bottom:1px solid #999999; 
+	background:url(../imagenes/seguridad/fondomenusubmodulos.png);
+	width:1005px;
+	height:35px;
+}
+
+.boton_menu_submodulos
+{
+	text-align:center;
+	border-right:1px solid #999999;
+}
+
+.boton_menu_cursor_submodulos
+{
+	background:url(../imagenes/seguridad/66.gif) no-repeat center;
+	text-align:center;
+	border-right:1px solid #999999;
+}
+
+.tabla_secciones
+{
+	border:1px solid #cccccc;
+}
+
+.borde_menu_secciones
+{
+	background:url(../imagenes/seguridad/fondomenusecciones.png) repeat;
+	height:30px;
+}
+
+.borde_superior_programas
+{
+	border-top:1px solid #999999;
+}
+
+.seguridad_clave
+{
+	border:1px solid #eaebeb;
+	background:#eaebeb;
+}
+
+.elementos_lista_tabla_elementos_dinamica
+{
+	margin:1px;
+	background: #fceaea;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	text-align:justify;
+}
+
+div.multiupload
+{
+	border:1px solid #999999;;
+	float:left;
+	padding:2px;
+	background:#fcfcfe;
+	width:575px;
+}
+
+div.multiupload div.list
+{
+	border:1px solid #999999;
+}
+
+div.multiupload div.list div.item
+{
+	margin:1px;
+	background: #fceaea;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	text-align:justify;
+}
+
+div.multiupload div.list div.item:hover
+{
+	background: #999999;
+	cursor:pointer;
+}
+
+div.multiupload div.list img
+{
+	border:0px;
+	margin:0px;
+	vertical-align:middle;
+	cursor:pointer;
+}
+
+
+div.jGrowl {
+	padding: 			10px;
+	z-index: 			9999;
+}
+
+/** Special IE6 Style Positioning **/
+div.ie6 {
+	position: 			absolute;
+}
+
+div.ie6.top-right {
+	right: 				auto;
+	bottom: 			auto;
+	left: 				expression( ( 0 - jGrowl.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+  	top: 				expression( ( 0 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+
+div.ie6.top-left {
+	left: 				expression( ( 0 + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+	top: 				expression( ( 0 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+
+div.ie6.bottom-right {
+	left: 				expression( ( 0 - jGrowl.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+	top: 				expression( ( 0 - jGrowl.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+
+div.ie6.bottom-left {
+	left: 				expression( ( 0 + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+	top: 				expression( ( 0 - jGrowl.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+
+div.ie6.center {
+	left: 				expression( ( 0 + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+	top: 				expression( ( 0 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+	width: 				100%;
+}
+
+/** Normal Style Positions **/
+body > div.jGrowl {
+	position:			fixed;
+}
+
+body > div.jGrowl.top-left {
+	left: 				0px;
+	top: 				0px;
+}
+
+body > div.jGrowl.top-right {
+	right: 				0px;
+	top: 				0px;
+}
+
+body > div.jGrowl.bottom-left {
+	left: 				0px;
+	bottom:				0px;
+}
+
+body > div.jGrowl.bottom-right {
+	right: 				0px;
+	bottom: 			0px;
+}
+
+body > div.jGrowl.center {
+	top: 				0px;
+	width: 				50%;
+	left: 				25%;
+}
+
+/** Cross Browser Styling **/
+div.center div.jGrowl-notification, div.center div.jGrowl-closer {
+	margin-left: 		auto;
+	margin-right: 		auto;
+}
+
+div.jGrowl div.jGrowl-notification, div.jGrowl div.jGrowl-closer {
+	background-color: 		#000;
+	color: 					#fff;
+	opacity: 				.85;
+	filter: 				alpha(opacity = 85);
+	zoom: 					1;
+	width: 					235px;
+	padding: 				10px;
+	margin-top: 			5px;
+	margin-bottom: 			5px;
+	font-family: 			Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 				12px;
+	text-align: 			left;
+	display: 				none;
+	-moz-border-radius: 	5px;
+	-webkit-border-radius:	5px;
+}
+
+div.jGrowl div.jGrowl-notification {
+	min-height: 			40px;
+}
+
+div.jGrowl div.jGrowl-notification div.header {
+	font-weight: 			bold;
+	font-size:				10px;
+}
+
+div.jGrowl div.jGrowl-notification div.close {
+	float: 					right;
+	font-weight: 			bold;
+	font-size: 				12px;
+	cursor:					pointer;
+}
+
+div.jGrowl div.jGrowl-closer {
+	height: 				15px;
+	padding-top: 			4px;
+	padding-bottom: 		4px;
+	cursor: 				pointer;
+	font-size:				11px;
+	font-weight: 			bold;
+	text-align: 			center;
+}
+
+div.jGrowl div.estatus_satisfactorio
+{
+	background: url(../../imagenes/seguridad/iconos/icono_satisfactorio.png) no-repeat 10px 10px;
+	background-color: 		#5e5e5e;
+	color: 					#fff;
+	opacity: 				.85;
+	filter: 				alpha(opacity = 85);
+	zoom: 					1;
+	width: 					235px;
+	padding-top: 			10px;
+	padding-bottom: 		10px;
+	padding-right: 			10px;
+	padding-left: 			70px;
+	margin-top: 			5px;
+	margin-bottom: 			5px;
+	font-family: 			Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 				12px;
+	text-align: 			left;
+	display: 				none;
+	-moz-border-radius: 	5px;
+	-webkit-border-radius:	5px;
+}
+/* ================= Seccion de Alerts ========================= */
+#popup_container {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	min-width: 300px; /* Dialog will be no smaller than this */
+	max-width: 600px; /* Dialog will wrap after this width */
+	background: #FFF;
+	border: solid 5px #999;
+	color: #000;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#popup_title {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 1.75em;
+	color: #FFF;
+	background: #CCC url(../imagenes/seguridad/title.gif) top repeat-x;
+	border: solid 1px #FFF;
+	border-bottom: solid 1px #bb161d;
+	cursor: default;
+	padding: 0em;
+	margin: 0em;
+	
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+	background:#A6A6A6 url(images/ui-bg_dots-small_65_a6a6a6_2x2.png) repeat scroll 50% 50%;
+	opacity:0.4;
+}
+
+#popup_content {
+	background: 16px 16px no-repeat url(../imagenes/seguridad/iconos/info.gif);
+	padding: 1em 1.75em;
+	margin: 0em;
+}
+
+#popup_content.alert {
+	background-image: url(../imagenes/seguridad/iconos/info.gif);
+}
+
+#popup_content.confirm {
+	background-image: url(../imagenes/seguridad/iconos/important.gif);
+}
+
+#popup_content.prompt {
+	background-image: url(../imagenes/seguridad/iconos/help.gif);
+}
+
+#popup_message {
+	padding-left: 48px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	color:#373636;
+	vertical-align:middle;
+	text-transform:none;
+	font-weight:normal;
+}
+
+#popup_panel {
+	text-align: center;
+	margin: 1em 0em 0em 1em;
+}
+
+#popup_prompt {
+	margin: .5em 0em;
+}
+
+/* ======================================================================== */
+
+/* ================= Seccion de JavaScript Sorter ========================= */
+
+#controls {
+	margin:5px auto; 
+	height:25px;
+	vertical-align:middle;
+}
+#perpage {float:left; width:200px}
+#perpage select {float:left; font-size:11px}
+#perpage span {float:left; margin:2px 0 0 5px}
+#navigation {text-align:center}
+#navigation img {cursor:pointer}
+#text {float:left; width:200px; text-align:right; margin-top:2px}
+
+/* ======================================================================== */

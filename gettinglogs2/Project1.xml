@@ -1,0 +1,1259 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project1
+</name>
+</assembly>
+<members>
+<member name="T:Project1.cbiometricoDataSet.att_departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_devicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_horariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logs_temporalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_personasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.file_indexingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.listing_filesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_modulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_programasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_seccionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_submodulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuarios_programas_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.fechasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.no_repetidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.registros_nuevos_unicos_viewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_devicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_horariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logs_temporalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_personasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.file_indexingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.listing_filesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_modulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_programasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_seccionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_submodulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuarios_programas_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.fechasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.no_repetidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.registros_nuevos_unicos_viewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_devicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_horariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_logs_temporalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.att_personasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.file_indexingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.listing_filesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_modulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_programasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_seccionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_submodulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.seguridad_usuarios_programas_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.fechasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.no_repetidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet.registros_nuevos_unicos_viewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_devicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_horariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_logsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_logs_temporalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.att_personasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.file_indexingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.listing_filesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_bitacoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_modulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_programasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_seccionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_submodulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.seguridad_usuarios_programas_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.fechasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.no_repetidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSetTableAdapters.registros_nuevos_unicos_viewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_devicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_horariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logs_temporalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_personasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.file_indexingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.listing_filesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_modulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_programasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_seccionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_submodulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuarios_programas_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.fechasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.no_repetidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.registros_nuevos_unicos_viewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_devicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_horariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logs_temporalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_personasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.file_indexingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.listing_filesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_modulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_programasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_seccionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_submodulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuarios_programas_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.fechasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.no_repetidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.registros_nuevos_unicos_viewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_devicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_horariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_logs_temporalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.att_personasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.file_indexingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.listing_filesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_modulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_programasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_seccionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_submodulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.seguridad_usuarios_programas_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.fechasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.no_repetidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1.registros_nuevos_unicos_viewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_devicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_horariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_logsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_logs_temporalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.att_personasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.file_indexingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.listing_filesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_bitacoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_modulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_programasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_seccionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_submodulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.seguridad_usuarios_programas_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.fechasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.no_repetidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet1TableAdapters.registros_nuevos_unicos_viewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_devicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_horariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logs_temporalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_personasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.file_indexingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.listing_filesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_modulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_programasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_seccionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_submodulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuarios_programas_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.fechasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.no_repetidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.registros_nuevos_unicos_viewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_devicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_horariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logs_temporalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_personasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.file_indexingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.listing_filesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_modulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_programasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_seccionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_submodulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuarios_programas_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.fechasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.no_repetidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.registros_nuevos_unicos_viewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_devicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_horariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_logs_temporalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.att_personasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.file_indexingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.listing_filesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_modulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_programasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_seccionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_submodulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.seguridad_usuarios_programas_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.fechasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.no_repetidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3.registros_nuevos_unicos_viewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_devicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_horariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_logsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_logs_temporalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.att_personasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.file_indexingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.listing_filesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_bitacoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_modulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_programasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_seccionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_submodulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.seguridad_usuarios_programas_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.fechasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.no_repetidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet3TableAdapters.registros_nuevos_unicos_viewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_devicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_horariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logs_temporalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_personasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.departamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.file_indexingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.listing_filesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_modulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_programasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_seccionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_submodulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuarios_programas_privilegiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_devicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_horariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logs_temporalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_personasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.departamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.file_indexingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.listing_filesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_modulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_programasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_seccionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_submodulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuarios_programas_privilegiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_devicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_horariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_logs_temporalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.att_personasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.departamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.file_indexingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.listing_filesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_modulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_programasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_seccionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_submodulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2.seguridad_usuarios_programas_privilegiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_devicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_horariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_logsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_logs_temporalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.att_personasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.departamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.file_indexingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.listing_filesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_bitacoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_modulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_programasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_seccionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_submodulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project1.cbiometricoDataSet2TableAdapters.seguridad_usuarios_programas_privilegiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

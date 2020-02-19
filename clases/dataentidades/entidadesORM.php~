@@ -1,0 +1,44 @@
+<?php
+   @include_once('../../../../clases/adodb5/adodb.inc.php');
+   @include_once('../../../../clases/adodb5/adodb-active-record.inc.php');
+   @include_once('../../../../clases/adodb5/adodb-exceptions.inc.php');
+   @include_once('../../../../clases/RecordsetPostgreSQL.php');
+   
+   @include_once('../../../clases/adodb5/adodb.inc.php');
+   @include_once('../../../clases/adodb5/adodb-active-record.inc.php');
+   @include_once('../../../clases/adodb5/adodb-exceptions.inc.php');
+   @include_once('../../../clases/RecordsetPostgreSQL.php');
+
+   $dbInfo = new clsConnex();
+
+   $gDbCon = NewADOConnection('pgsql://'.$dbInfo->usuario.':'.$dbInfo->clave.'@'.$dbInfo->servidor.'/'.$dbInfo->bd);
+   //$gDbCon->Debug=true;
+   //$gDbCon->Trace=true;
+   ADOdb_Active_Record::SetDatabaseAdapter($gDbCon);
+   $gDbCon->SetFetchMode(ADODB_FETCH_ASSOC);
+   
+   
+   class att_attlogs extends ADOdb_Active_Record{ var $_table = 'att_logs'; }
+   
+   class att_personas extends ADOdb_Active_Record{ var $_table = 'att_personas'; }
+   
+   class att_departamentos extends ADOdb_Active_Record{ var $_table = 'att_departamentos'; }
+   
+   class att_horarios extends ADOdb_Active_Record{ var $_table = 'att_horarios'; }
+   
+   class att_devices extends ADODB_Active_Record{ var $_table = 'att_devices'; }
+   
+
+   class tblFechas extends ADODB_Active_Record {
+
+   var $_table='fechas'; 
+   function __construct(){
+   parent::__construct($this->_table,array('id'));
+   } 
+   }
+   
+   function getDay($DayOfWeek){
+   	$dow = array(0=>"DOMINGO", 1=>"LUNES", 2=>"MARTES", 3=>"MIERCOLES", 4=>"JUEVES", 5=>"VIERNES", 6=>"SABADO");
+   	return $dow[$DayOfWeek];
+   }
+?>
